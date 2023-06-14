@@ -336,9 +336,7 @@ function App() {
 
 export default App;
 ```
-![](001)
-
-
+![](https://github.com/muhammadnaqeeb/React-Native-Navigation/blob/main/images/001.png)
 
 # Nested Navigation
 Installing all dependency at once
